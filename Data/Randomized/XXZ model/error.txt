@@ -1,4 +1,0 @@
-Delta = 0.1, initial_error = 3.8700512148830617, final_error = 0.028062379879896345
-Delta = 0.5, initial_error = 2.07351297089763, final_error = 0.01027600211295637
-Delta = 0.8, initial_error = 0.800120128295449, final_error = 0.0034226135045974985
-Delta = 1.2, initial_error = 0.765760380159086, final_error = 0.0032911362128443446
